@@ -1,1 +1,0 @@
-#merging_test.md
